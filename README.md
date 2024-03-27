@@ -1,1 +1,1 @@
-# -lbum-e-formatura
+# -album-e-formatura
